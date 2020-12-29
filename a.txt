@@ -1,1 +1,1 @@
-Before checkout
+Changed before -W 
